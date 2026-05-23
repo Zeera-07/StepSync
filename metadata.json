@@ -1,0 +1,6 @@
+{
+  "name": "StepSync",
+  "description": "StepSync: Local Health & Step Tracker. Track your daily calorie balance, steps progress, active workout durations, and local weight journey fully offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
